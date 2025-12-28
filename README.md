@@ -21,15 +21,6 @@ I am a motivated Computer Science student with a strong interest in web developm
 
 ---
 
-## 📊 GitHub Status
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamAjLobo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamAjLobo&layout=compact&theme=tokyonight)
-
-
----
-
 ## 🚀 What I'm Currently Working On
 
 - Strengthening my skills in **React.js** and modern frontend practices  
