@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexander Jerome S. Lobo
 
-<!--
-**iamAjLobo/iamAjLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Computer Science Student**  
+🏫 **City College of Angeles**
 
-Here are some ideas to get you started:
+I am a motivated Computer Science student with a strong interest in web development and software engineering. I enjoy building clean, functional, and user-focused applications while continuously improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+- Tailwind CSS  
+
+**Backend**
+- PHP  
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAjLobo&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?iamAjLobo&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- Strengthening my skills in **React.js** and modern frontend practices  
+- Building academic and personal web projects  
+- Exploring full-stack development with **PHP and React**
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [https://github.com/iamAjLobo](https://github.com/iamAjLobo)
+
+---
+
+⭐ *Feel free to explore my repositories and follow my progress as I continue my journey in Computer Science.*
